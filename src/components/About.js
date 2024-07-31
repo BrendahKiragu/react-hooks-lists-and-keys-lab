@@ -13,3 +13,9 @@ function About({ bio, links }) {
 }
 
 export default About;
+
+//about shows a h2
+//props are obj, hence {bio, links}  this way we have destructured
+// bio that gets arg from parent
+//About is a child component of App
+
